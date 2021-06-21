@@ -1,5 +1,12 @@
 # 说明
 
+转了个简易的`.exe`文件。在`account.txt`中填写帐号密码，
+
+https://share.bizha.top/down.php/6336e46c1a987bbb18233e8f7144c23c.zip
+
+![](https://i.loli.net/2021/06/21/EhgHdSp23GXBafb.png)
+
+---
 旧版本：<https://github.com/yoval/lrts>
 
 以前淘宝2块钱可以买到60听书券，做的旧版本。现在没必要做多账户了，因此重制。
