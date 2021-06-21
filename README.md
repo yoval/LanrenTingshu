@@ -4,7 +4,9 @@
 
 https://share.bizha.top/down.php/6336e46c1a987bbb18233e8f7144c23c.zip
 
-![](https://i.loli.net/2021/06/21/EhgHdSp23GXBafb.png)
+![密码成功](https://i.loli.net/2021/06/21/Q4iOuYZU8fLlIxg.png)
+
+![密码错误](https://i.loli.net/2021/06/21/EhgHdSp23GXBafb.png)
 
 ---
 旧版本：<https://github.com/yoval/lrts>
