@@ -57,7 +57,6 @@ IdmPath = 'C:\Program Files (x86)\Internet Download Manager\IDMan.exe'
 def IdmDownLoad(DownloadUrl, Mp3Name):
     call([IdmPath, '/d',DownloadUrl,'/p',FilePath,'/f',Mp3Name,'/n'])
 # 调用Air2下载
-#Air2 RPC链接
 JsonRpcUrl = 'http://localhost:6800/jsonrpc'
 def Air2DownLoad(DownloadUrl,Mp3Name):
     PostData = {
@@ -73,6 +72,8 @@ def Air2DownLoad(DownloadUrl,Mp3Name):
     Send = requests.post(JsonRpcUrl,json.dumps(PostData))
     if Send.status_code==200:
         print('推送成功！')
+    else:
+        print('推送失败！请打开Aria2并确保正常运行。')
 #通过BookID获得BookJson列表
 def GetBookJsonList(BookID):
     AudioListJsonUrl = 'http://m.lrts.me/ajax/getBookMenu?bookId=%s&pageNum=1&pageSize=5000&sortType=0'%(BookID)
