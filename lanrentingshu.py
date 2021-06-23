@@ -17,8 +17,6 @@ password = '&QaQKgHW6V4&Juo0'
 FilePath = r'C:\Users\Yue\Desktop\有声小说'
 #下载方式：(1.调用IDM，2.调用Aria2)
 DownType = 2
-#Air2 RPC链接
-JsonRpcUrl = 'http://localhost:6800/jsonrpc'
 #下载范围（End为0时，不限）
 #开始集数
 Start=310
@@ -59,6 +57,8 @@ IdmPath = 'C:\Program Files (x86)\Internet Download Manager\IDMan.exe'
 def IdmDownLoad(DownloadUrl, Mp3Name):
     call([IdmPath, '/d',DownloadUrl,'/p',FilePath,'/f',Mp3Name,'/n'])
 # 调用Air2下载
+#Air2 RPC链接
+JsonRpcUrl = 'http://localhost:6800/jsonrpc'
 def Air2DownLoad(DownloadUrl,Mp3Name):
     PostData = {
         "jsonrpc":"2.0",
