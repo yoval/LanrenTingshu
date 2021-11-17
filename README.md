@@ -2,7 +2,7 @@
 
 转了个简易的`.exe`文件。在`account.txt`中填写帐号密码，
 
-https://share.bizha.top/down.php/6336e46c1a987bbb18233e8f7144c23c.zip
+https://yun.bizha.xyz/MyCloud/%E6%87%92%E4%BA%BA%E5%90%AC%E4%B9%A6_20210621.zip
 
 ![密码成功](https://i.loli.net/2021/06/21/Q4iOuYZU8fLlIxg.png)
 
