@@ -8,6 +8,7 @@ https://fuwenyue.lanzoui.com/i3cb9wl06pe
 
 ![密码错误](https://i.loli.net/2021/06/21/EhgHdSp23GXBafb.png)
 
+最好还是代码运行吧。
 ---
 旧版本：<https://github.com/yoval/lrts>
 
@@ -26,3 +27,4 @@ https://fuwenyue.lanzoui.com/i3cb9wl06pe
 IDM：https://share.bizha.top/down.php/83a08ab13ea747179eeb3d819439d9c8.zip
 
 Aria2：https://github.com/mayswind/AriaNg-Native/releases
+
